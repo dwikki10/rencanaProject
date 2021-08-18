@@ -2,3 +2,4 @@ Buat app total waktu belajar onlen menggunakan play list youtube
 coding dengan bicara
 buat web statis puskom
 buat forum diskusi mahasiswa
+membuat web profile di github pages
